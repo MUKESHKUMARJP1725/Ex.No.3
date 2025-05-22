@@ -1,45 +1,49 @@
-# Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
-
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### Aim: To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts. Case study 1 with Straightforward Prompts, Tabular Format Prompting and Preceding Question Prompting  
-
-### Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
-Procedure:
-1.	Define the Scenario and Use Case:
-Scenario:
-The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency.
-Target Audience:
-Manufacturing companies, specifically in sectors like automotive, electronics, and food processing, where automation can significantly improve productivity.
+## Experiment No:3 
+## Title: Comparative Analysis of Prompting Tools Across Different AI Platforms 
 
 
-Main Objectives:
+### Name: Mukesh Kumar J.P 
+### Reg No: 212222223002 
+```
+Abstract: This report examines the performance, user experience, and response quality of prompting tools across various AI platforms within a specific use case, such as summarizing text or answering technical questions. The study evaluates leading AI systems based on accuracy, coherence, response time, adaptability, and overall usability. 
+1.	Introduction With the rise of AI-powered assistants, different platforms provide unique prompting tools that cater to various user needs. This report compares these tools within the context of text summarization and answering technical questions, highlighting their strengths and weaknesses. 
+2.	Methodology To conduct this analysis, we selected multiple AI platforms, including OpenAI’s ChatGPT, Google’s Gemini, Anthropic’s Claude, and Meta’s Llama. Each AI system was given identical prompts within defined scenarios: 
+•	Summarizing Text: Summarization of a complex article. 
+•	Technical Q&A: Answering a software engineering-related question. 
+Evaluation criteria included: 
+•	Accuracy: How well the response aligns with the expected answer. 
+•	Coherence: Logical flow and readability of the response. 
+•	Response Time: Speed of generating an answer. 
+•	Adaptability: Ability to refine responses based on follow-up queries. 
+•	Usability: Ease of use and customization options. 
+3.	Results and Comparison 
+Feature 	ChatGPT Gemini Claude 	Llama 
+Summarization Accuracy High 	Medium High 	Medium 
+Technical Q&A Accuracy High 	Medium High 	Low 
+Coherence 	High 	High 	Medium Medium 
+Response Time 	Fast 	Fast 	Moderate Slow 
+Adaptability 	Very High High 	Medium Low 
+Usability 	High 	High 	High 	Medium 
+4.	Discussion 
+•	Summarization Performance: ChatGPT and Claude provided the most concise yet accurate summaries, whereas Gemini often omitted key details. 
+•	Technical Q&A: ChatGPT and Claude demonstrated strong accuracy in answering software-related queries, while Llama struggled with more complex questions. 
+•	Coherence & Flow: ChatGPT led in this aspect, maintaining clarity and logical structuring across responses. 
+•	Response Time: OpenAI’s ChatGPT and Google’s Gemini outperformed others in speed. 
+•	Adaptability: ChatGPT excelled in refining responses based on iterative user inputs, making it ideal for in-depth queries. 
+•	Usability: All platforms were relatively user-friendly, though Llama had fewer customization options. 
+5.	Case Study: Real-World Application To further validate the results, a realworld test was conducted where users across different fields—education, software development, and content creation—utilized these AI models for their tasks. The findings highlighted that: 
+•	Educators preferred ChatGPT for generating lesson summaries due to its detailed yet concise output. 
+•	Software developers found Claude’s structured responses useful for debugging and code explanations. 
+•	Content creators favored Gemini for quick, fluid summaries, but noted occasional inconsistencies. 
+6.	Experiment 2: Enhanced Prompting and Contextual Awareness A second experiment was conducted to analyze how well these AI models handle complex, multi-turn interactions requiring deeper contextual awareness. The test involved: 
+•	Scenario 1: Analyzing and summarizing a lengthy scientific research paper with domain-specific terminology. 
+•	Scenario 2: Providing a step-by-step explanation of a complex coding problem, including debugging suggestions and optimized code improvements. 
+Findings: 
+•	ChatGPT and Claude demonstrated superior contextual retention and generated in-depth, structured responses. 
+•	Gemini provided fast but sometimes inconsistent results when handling long-term contextual queries. 
+•	Llama struggled with maintaining coherence in multi-turn interactions. 
+7.	Conclusion Based on our analysis, ChatGPT emerges as the most wellrounded AI platform for both summarization and technical Q&A due to its accuracy, adaptability, and response quality. However, specific use cases might benefit from the strengths of other models, such as Claude’s structured answers or Gemini’s fast response times. 
+8.	Future Recommendations Further research could involve domain-specific evaluations, real-world user feedback, and integration testing in various industries to refine prompting techniques for enhanced AI interactions. Additionally, examining how these models evolve with updates and newer versions could provide deeper insights into their long-term capabilities and usability. 
+``` 
 
-•	Improve production efficiency by 30%.
-•	Minimize machinery downtime with predictive maintenance.
-•	Enable real-time monitoring and remote control of manufacturing systems.
-•	Reduce energy consumption by optimizing processes.
- 
-2.	Identify Prompt Patterns for Each Design Aspect:
-Idea Generation Prompts:
-
-•	Prompt: “What features can be incorporated into the automation system to optimize production and reduce downtime?” Generated Ideas:
-•	Sensors for real-time monitoring of equipment performance.
-•	Predictive maintenance alerts to anticipate equipment failures.
-•	Energy usage optimization by automating the switching of machines on/off based on demand.
-•	Cloud-based dashboards for remote monitoring and control of machinery.
-
-Persona and Context Prompts:
-
-•	Prompt: “What should the user interface and control system convey to the operators and managers?” Generated Context:
-•	The user interface should be intuitive and provide real-time data on machine performance, energy usage, and alerts.
-•	The system should convey reliability and ease of use, with minimal training required for operators.
-
-### Conclusion
-Result: The various types of Prompts are executed successfully with generated the report.
-
-
-
-
-# Result: Thus the Prompts were exected succcessfully.
 
